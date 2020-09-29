@@ -43,10 +43,10 @@ namespace Super_Shop.Controllers
             ViewBag.City = "New York";
             ViewBag.Postalcode = "NY 10166";
             ViewBag.Country = "Verenigde Staten";
-            //TODO: Add phone number
-            //TODO: Add email
+            ViewBag.PhoneNumber = "+31 6 40143297";
+            ViewBag.Email = "j.koevoets@student.avans.nl";
 
-            //TODO: Add 1 intern (Employee, Role = intern)
+            ViewBag.Intern = new Employee() { Name = "Joris Koevoets", Role = "Intern" };
 
             return View();
         }

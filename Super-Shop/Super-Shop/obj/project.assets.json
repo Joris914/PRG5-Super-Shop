@@ -6199,20 +6199,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\links\\.nuget\\packages\\": {}
+    "C:\\Users\\joris\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\avans-prg5\\PRG5-Super-Shop\\Super-Shop\\Super-Shop\\Super-Shop.csproj",
+      "projectUniqueName": "C:\\Users\\joris\\OneDrive - Avans Hogeschool\\Visual Studio repos\\PRG5-Super-Shop\\Super-Shop\\Super-Shop\\Super-Shop.csproj",
       "projectName": "Super-Shop",
-      "projectPath": "C:\\Github\\avans-prg5\\PRG5-Super-Shop\\Super-Shop\\Super-Shop\\Super-Shop.csproj",
-      "packagesPath": "C:\\Users\\links\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\avans-prg5\\PRG5-Super-Shop\\Super-Shop\\Super-Shop\\obj\\",
+      "projectPath": "C:\\Users\\joris\\OneDrive - Avans Hogeschool\\Visual Studio repos\\PRG5-Super-Shop\\Super-Shop\\Super-Shop\\Super-Shop.csproj",
+      "packagesPath": "C:\\Users\\joris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joris\\OneDrive - Avans Hogeschool\\Visual Studio repos\\PRG5-Super-Shop\\Super-Shop\\Super-Shop\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\links\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\joris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6262,7 +6267,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
